@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NancyBett
-- 👀 I’m interested in Data Science
+- 👀 I’m working on Data Science Projects
 - 🌱 I’m currently learning Machine Learning in Python
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me nancybchemu@gmail.com
